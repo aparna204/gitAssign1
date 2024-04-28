@@ -1,0 +1,3 @@
+Hi,
+this is output.txt
+bye!!
